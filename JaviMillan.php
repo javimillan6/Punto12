@@ -14,6 +14,7 @@
 class JaviMillan {
 
     function saluda() {
+        print "Hola soy Pablo";
         print "Hola soy Sergio";
     }
 
