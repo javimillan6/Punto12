@@ -1,0 +1,28 @@
+<?php
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of JaviMillan
+ *
+ * @author Javi
+ */
+class JaviMillan {
+
+    function saluda() {
+        print "Hola soy Javi";
+    }
+
+    function despedir() {
+        print "Adiós hasta pronto";
+    }
+
+    function suma($a, $b) {
+        return $a + $b;
+    }
+
+}
