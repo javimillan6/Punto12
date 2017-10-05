@@ -13,7 +13,7 @@
  */
 class Pablo {
     function Pablo(){
-        
+        echo "hola pablo";
     }
     function Javi(){
         
