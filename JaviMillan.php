@@ -19,7 +19,7 @@ class JaviMillan {
     }
 
     function despedir() {
-        print "Adiós hasta pronto";
+        print "Adiós hasta tarde";
     }
     
     //fede
@@ -28,6 +28,6 @@ class JaviMillan {
         return $a + $b;
     }
     
-    //fede
+
 
 }
