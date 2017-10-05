@@ -19,7 +19,7 @@ class JaviMillan {
     }
 
     function despedir() {
-        print "Adiós hasta hola";
+        print "Adiós hasta nunca";
     }
     
     //fede
