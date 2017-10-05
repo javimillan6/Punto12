@@ -21,6 +21,8 @@ class JaviMillan {
     function despedir() {
         print "Adiós hasta pronto";
     }
+    
+    //fede
 
     function suma($a, $b) {
         return $a + $b;
